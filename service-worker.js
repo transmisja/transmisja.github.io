@@ -1,10 +1,10 @@
 self.addEventListener('install', function(e) {
     e.waitUntil(
-      caches.open('moja-pwa-cache').then(function(cache) {
+      caches.open('sejm-stream-cache').then(function(cache) {
         return cache.addAll([
           '/',
           '/index.html',
-          // tutaj dodaj inne pliki, które chcesz cachować
+          // pliki do cachowania
         ]);
       })
     );
