@@ -52,7 +52,22 @@
         "type": "image/png"
       }
     ],
-  // "screenshots": [],
-  // "shortcuts" : []
+  "screenshots": [
+    {
+      "src": "assets/screenshots/1.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Homescreen of Awesome App"
+    },
+    {
+      "src": "assets/screenshots/2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "List of Awesome Resources available in Awesome App"
+    }
+  ],
+  "shortcuts" : []
   }
   
