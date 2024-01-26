@@ -8,8 +8,8 @@
     "scope": "/",
     "background_color": "#ffffff",
     "theme_color": "#000000",
-    "display": "fullscreen",
-    "orientation": "portrait",
+    "display": "standalone",
+    "orientation": "any",
     "lang": "pl-PL",
     "icons": [
       {
