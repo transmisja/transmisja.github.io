@@ -1,7 +1,7 @@
 {
     "name": "Transmisje z Sejmu RP",
     "short_name": "Sejm RP Stream",
-    "description": "Aplikacja umożliwiająca oglądanie transmisji z Sejmu RP: posiedzenia, komisje, podkomisje i inne.",
+    "description": "Aplikacja umożliwia oglądanie transmisji z Sejmu RP: posiedzenia, komisje, podkomisje i inne.",
     "categories": ["politics", "government", "entertainment"],
     "start_url": "/index.html",
     "scope": "/",
@@ -52,7 +52,7 @@
         "type": "image/png"
       }
     ],
-  "screenshots": [],
-  "shortcuts" : []
+  // "screenshots": [],
+  // "shortcuts" : []
   }
   
