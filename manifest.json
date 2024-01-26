@@ -3,6 +3,7 @@
     "short_name": "Sejm RP Stream",
     "description": "Aplikacja umożliwia oglądanie transmisji z Sejmu RP: posiedzenia, komisje, podkomisje i inne.",
     "categories": ["politics", "government", "entertainment"],
+    "id": "/index.html",
     "start_url": "/index.html",
     "scope": "/",
     "background_color": "#ffffff",
